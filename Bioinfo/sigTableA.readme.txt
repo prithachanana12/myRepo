@@ -1,0 +1,1 @@
+This is a code which was used to parse one of the outputs I obtained for my Master's researh thesis. Since the work is as yet unpublished, it would be inappropriate for me to provide the relevant files. I apologize for this lack of information. I have submitted this code because I feel that it will be a good example of my coding style.

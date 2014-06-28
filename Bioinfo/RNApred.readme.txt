@@ -1,0 +1,2 @@
+RNApred.py usage - implements the nussinov algorithm for RNA secondary structure prediction
+python RNApred.py <input_file>

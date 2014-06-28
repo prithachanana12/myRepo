@@ -1,0 +1,5 @@
+Readme align.py
+Function: this script locally aligns input protein sequences using the Smith Watermann algorithm
+Input: 2 FASTA files containing protein sequences to be aligned are input through the command line 
+Output: the aligned sequences are saved in an output file which is mentioned at the command line
+Sample usage: python align.py <file1.txt> <file2.txt> <output.txt>

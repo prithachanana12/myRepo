@@ -1,0 +1,4 @@
+compile: gcc quicksort.c -o quick
+run: ./quick <input.txt> <output.txt>
+
+The input file should have a random list of numbers (negative or positive integers and 0) - one number on each line. 

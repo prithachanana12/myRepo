@@ -1,0 +1,5 @@
+compile: gcc selectionSort.c -o select
+run: ./select
+
+Input file should be a text file of random negative and positive integers (including 0) - one number per line.
+Output file called output.txt will be created.

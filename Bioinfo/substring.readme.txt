@@ -1,0 +1,3 @@
+usage: python substring.py
+
+This script returns a list of all starting positons of a particular motif in a given sequence. The input file has a test sequence in the first line, and the motif is specified in the next line of the same file. The file 'rosalind_subs' in this folder is a test file for this script.

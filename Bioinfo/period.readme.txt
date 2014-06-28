@@ -1,0 +1,4 @@
+Readme period.py - calculates periodicity of input DNA sequence
+usage: python period.py <input file>
+
+with the input file period.input and a window size of 2, the periodicty should be 0.667
